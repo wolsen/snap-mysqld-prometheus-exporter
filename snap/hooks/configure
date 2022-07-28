@@ -36,5 +36,3 @@ handle_mysql_pwd_config()
     new_pwd="$(mysql_pwd)"
 }
 handle_mysql_pwd_config
-
-restart
